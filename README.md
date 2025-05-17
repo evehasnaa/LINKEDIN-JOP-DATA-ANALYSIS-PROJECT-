@@ -85,9 +85,6 @@ As a junior data analyst, I built this interactive **LinkedIn Job Search Dashboa
 - Cleaned dataset with new columns: `job`, `country`, `salary`
 """
 
-# Save the updated README to a markdown file
-updated_readme_path = "/mnt/data/README_LinkedIn_Job_Dashboard_UPDATED.md"
-with open(updated_readme_path, "w", encoding="utf-8") as f:
-    f.write(updated_readme_content)
+
 
 
